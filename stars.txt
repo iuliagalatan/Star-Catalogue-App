@@ -1,0 +1,6 @@
+Steaua,Another,10,10,67
+Nova,Milk,134,54,32
+Nova2,Milk,26,32,65
+Iulia,Milk,42,42,56
+luna,Milk,12,12,23
+Taurus,Taurus,100,56,80
